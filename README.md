@@ -18,7 +18,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/saichiranthan/medical-diagnosis-system.git`
 2. Install the required dependencies: `pip install -r "modules in readme.txt"`
-3. Run the application: `python DescisionTree model.py ----for descisiontree method and RandomForest model.py for randomforest method`
+3. Run the application: `python DescisionTree model.py for descisiontree method and RandomForest model.py for randomforest method`
 
 ## Usage
 
