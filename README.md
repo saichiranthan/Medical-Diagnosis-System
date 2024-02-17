@@ -36,5 +36,5 @@ This project is intended for educational purposes only and should not be used as
 
 ## Acknowledgements
 
-- Special thanks to [Ram Mohana Reddy Guddeti] for their Guidance and support.
+- Special thanks to Ram Mohana Reddy Guddeti [IT208-course instructor] for their Guidance and support.
 
